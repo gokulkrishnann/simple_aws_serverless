@@ -1,0 +1,184 @@
+{
+    "luckydraw": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "user_id": {
+                        "N": "1"
+                    },
+                    "user_name": {
+                        "S": "User1"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "user_id": {
+                        "N": "2"
+                    },
+                    "user_name": {
+                        "S": "User2"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "user_id": {
+                        "N": "3"
+                    },
+                    "user_name": {
+                        "S": "User3"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "user_id": {
+                        "N": "4"
+                    },
+                    "user_name": {
+                        "S": "User4"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "user_id": {
+                        "N": "5"
+                    },
+                    "user_name": {
+                        "S": "User5"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "user_id": {
+                        "N": "6"
+                    },
+                    "user_name": {
+                        "S": "User6"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "user_id": {
+                        "N": "7"
+                    },
+                    "user_name": {
+                        "S": "User7"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "user_id": {
+                        "N": "8"
+                    },
+                    "user_name": {
+                        "S": "User8"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "user_id": {
+                        "N": "9"
+                    },
+                    "user_name": {
+                        "S": "User9"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "user_id": {
+                        "N": "10"
+                    },
+                    "user_name": {
+                        "S": "User10"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "user_id": {
+                        "N": "11"
+                    },
+                    "user_name": {
+                        "S": "User11"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "user_id": {
+                        "N": "12"
+                    },
+                    "user_name": {
+                        "S": "User12"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "user_id": {
+                        "N": "13"
+                    },
+                    "user_name": {
+                        "S": "User13"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "user_id": {
+                        "N": "14"
+                    },
+                    "user_name": {
+                        "S": "User14"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "user_id": {
+                        "N": "15"
+                    },
+                    "user_name": {
+                        "S": "User15"
+                    }
+                }
+            }
+        }
+    ]
+}

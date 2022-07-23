@@ -1,0 +1,11 @@
+1) Create luckydraw table:
+
+aws dynamodb create-table --table-name luckydraw --attribute-definitions \
+AttributeName=user_id,AttributeType=N --key-schema \
+AttributeName=user_id,KeyType=HASH \
+--provisioned-throughput ReadCapacityUnits=5,WriteCapacityUnits=5
+
+
+2) Populate luckydraw Table:
+
+aws dynamodb batch-write-item --request-items file://data/users.json
