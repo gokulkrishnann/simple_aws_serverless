@@ -27,7 +27,7 @@ def lambda_handler(event, context):
         "headers": {
             "Access-Control-Allow-Origin": "*",
         },
-        "body": json.dumps(user_dict['user_name'])
+        "body": json.dumps(user_dict['user_id'])
     }
 
     return resp
